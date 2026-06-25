@@ -4,7 +4,7 @@
 
 On 29 March 2024 at approximately 12:09 UTC, the Shopsphere platform experienced a security incident involving unauthorized access through website vulnerabilities. The attacker exploited weaknesses that allowed them to steal the administrator session, potentially granting full administrative privileges.
 
-The incident placed user data, orders and system logs at risk of exposure. Additionally, the attacker accessed a sensitive system file, indicating an attempt to escalate privileges and gain deeper control of the system .
+The incident placed user data, orders and system logs at risk of exposure.
 
 Immediat remediation actions are necessary to contain the incident including:
 
