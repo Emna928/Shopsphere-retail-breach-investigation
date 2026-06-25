@@ -40,8 +40,8 @@ The analysis of the PCAP using tshark revealed:
 
 * Multiple GET requests within a short time, more than 11 requests per second  
 * Repetitive GET requests resulting in 404 not found responses per second  
-* The use of Gobuster/3.6 as a User-Agent 
- These findings are a strong indicator of active reconnaissance using automated tool Gobuster.
+* The use of Gobuster/3.6 as a User-Agent <br>
+These findings are a strong indicator of active reconnaissance using automated tool Gobuster.
 Gobuster: designed for penetration testers, security professionals, and forensics experts to perform security assessments and reconnaissance.
 
 <br><img width="945" height="466" alt="image" src="https://github.com/user-attachments/assets/386fcacf-666b-414d-bcf2-a69d1a2cba24" /><br>
