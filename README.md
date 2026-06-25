@@ -26,9 +26,7 @@ Immediat remediation actions are necessary to contain the incident including:
 ## Tools:
 
 - Tshark  
-- Suricata  
-- Sigma  
-- WAF  
+- Suricata   
 - VirusTotal
 
 ---
